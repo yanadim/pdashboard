@@ -1,0 +1,22 @@
+{
+  "name": "pdashboard",
+  "version": "1.0.0",
+  "description": "Price Dashboard + Highcharts Demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanadim/pdashboard.git"
+  },
+  "keywords": [
+    "price"
+  ],
+  "author": "Yana Dimitrova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanadim/pdashboard/issues"
+  },
+  "homepage": "https://github.com/yanadim/pdashboard#readme"
+}
